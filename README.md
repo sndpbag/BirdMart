@@ -126,7 +126,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Contact Information
 
-- Website: [sndpbag.github.io/BirdMart/](https:sndpbag.github.io/BirdMart/)
+- Website: [sndpbag.github.io/BirdMart/](https//:sndpbag.github.io/BirdMart/)
 - Email: sndpbagg@gmail.com
 - Phone: +91 7980048890
 - Address: Amtala, Dakshin Gouripur, 743503
